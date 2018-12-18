@@ -6,7 +6,8 @@
 
 .headertop {
     height: 60px;
-    background-color:red
+    background-color:red;
+font-family: 'Charm', cursive;
 }
 
 .headerbottom {
@@ -19,6 +20,7 @@
     width: 20%;
     background-color: deepskyblue;
     float: left;
+    font-family: 'Staatliches', cursive;' 
 }
 
 .columcenter {
